@@ -1,0 +1,1 @@
+Start-Process -FilePath "cmd.exe"  -ArgumentList '/c powershell Start-Process powershell -Verb runAs "C:\Users\starb\Documents\tracer_historique_de_connexion_des_sessions_windows\TASK_REMOTE_CONNECT.ps1" -Force'
